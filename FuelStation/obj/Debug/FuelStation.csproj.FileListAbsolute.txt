@@ -1,0 +1,6 @@
+c:\users\chely\documents\visual studio 2015\Projects\FuelStation\FuelStation\bin\Debug\FuelStation.exe.config
+C:\Users\Chely\Documents\Visual Studio 2015\Projects\FuelStation\FuelStation\bin\Debug\FuelStation.exe
+C:\Users\Chely\Documents\Visual Studio 2015\Projects\FuelStation\FuelStation\bin\Debug\FuelStation.pdb
+C:\Users\Chely\Documents\Visual Studio 2015\Projects\FuelStation\FuelStation\obj\Debug\FuelStation.csprojResolveAssemblyReference.cache
+C:\Users\Chely\Documents\Visual Studio 2015\Projects\FuelStation\FuelStation\obj\Debug\FuelStation.exe
+C:\Users\Chely\Documents\Visual Studio 2015\Projects\FuelStation\FuelStation\obj\Debug\FuelStation.pdb
